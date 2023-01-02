@@ -1,0 +1,6 @@
+What is a data scientist?
+As a specialty, data science is young. It grew out of the fields of statistical analysis and data mining. The Data Science Journal debuted in 2002, published by the International Council for Science: Committee on Data for Science and Technology. By 2008 the title of data scientist had emerged, and the field quickly took off. There has been a shortage of data scientists ever since, even though more and more colleges and universities have started offering data science degrees.
+
+A data scientist’s duties can include developing strategies for analyzing data, preparing data for analysis, exploring, analyzing, and visualizing data, building models with data using programming languages, such as Python and R, and deploying models into applications.
+
+The data scientist doesn’t work solo. In fact, the most effective data science is done in teams. In addition to a data scientist, this team might include a business analyst who defines the problem, a data engineer who prepares the data and how it is accessed, an IT architect who oversees the underlying processes and infrastructure, and an application developer who deploys the models or outputs of the analysis into applications and products.
