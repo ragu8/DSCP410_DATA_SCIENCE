@@ -19,3 +19,6 @@
 2. AVERAGE POOLING ON A GIVEN n x n MATRIX WITH A m x m KERNEL
 
 
+
+
+
